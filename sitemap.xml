@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://mydomain.org/mysite/LICENSE/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://mydomain.org/mysite/about/</loc>
          <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>

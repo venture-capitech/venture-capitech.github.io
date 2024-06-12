@@ -1,1 +1,0 @@
-# venture-capitech.github.io
